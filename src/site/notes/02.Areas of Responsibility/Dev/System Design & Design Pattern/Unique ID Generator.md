@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/unique-id-generator/","tags":["db","system_design","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/Unique ID Generator/","tags":["db","system_design","dev"],"noteIcon":""}
 ---
 
 ## Context
