@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/scalability/","tags":["dev","scalability"]}
+{"dg-publish":true,"permalink":"/01-projects/scalability/","tags":["dev","scalability"],"noteIcon":""}
 ---
 
 ## 시스템 확장 및 퍼포먼스 향상 방법
@@ -13,4 +13,4 @@
 - 비동기 처리: 쓰기 연산을 DB에 바로 적용하지 않고 메시지 브로커를 통해 순차적으로 진행하고, 읽기 연산은 데이터 최신화에 상관없이 진행 (DB부하를 줄일 수 있으나, 동기화되지 않은 데이터를 조회할 수 있음)
 - 데이터베이스 다중화(Database Replication): 쓰기 연산은 master db에 하되, 읽기 연산은 load balancing을 통해 여러 db에서 분산하여 수행 함 (쓰기 연산을 여러 db에 동시에 하는 경우 동기화 문제가 생기기 때문에 복잡성이 높아질 수 있음)
 - 파티셔닝/샤딩(Database Partitioning)
-- DB 트랜잭션 최적화(특히 쓰기): 트랜잭션 범위 튜닝, 동시성 문제를 해결하기 위한 락을 필요시 pessimistic에서 optimistic으로 변경([[02.Areas of Responsibility/Dev/DB 동시성 문제-Lock\|DB 동시성 문제-Lock]])
+- DB 트랜잭션 최적화(특히 쓰기): 트랜잭션 범위 튜닝, 동시성 문제를 해결하기 위한 락을 필요시 pessimistic에서 optimistic으로 변경([[02.Areas of Responsibility/Dev/Database & Cache/DB 동시성 문제-Lock\|DB 동시성 문제-Lock]])
