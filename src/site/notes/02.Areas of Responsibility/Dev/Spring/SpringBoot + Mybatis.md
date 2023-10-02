@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-boot-mybatis/","tags":["dev","spring","mybatis"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/SpringBoot + Mybatis/","tags":["dev","spring","mybatis"],"noteIcon":""}
 ---
 
 
