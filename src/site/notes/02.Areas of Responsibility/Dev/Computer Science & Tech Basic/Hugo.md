@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/hugo/","tags":["hugo","blog","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Hugo/","tags":["hugo","blog","dev"],"noteIcon":""}
 ---
 
 - hugo quick start 문서를 보고 개발 시작 https://gohugo.io/getting-started/quick-start/
