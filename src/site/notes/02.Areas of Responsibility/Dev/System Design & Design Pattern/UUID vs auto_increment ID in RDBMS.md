@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/uuid-vs-auto-increment-id-in-rdbms/","tags":["db","rdb","system_design","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/UUID vs auto_increment ID in RDBMS/","tags":["db","rdb","system_design","dev"],"noteIcon":""}
 ---
 
 ## Context
