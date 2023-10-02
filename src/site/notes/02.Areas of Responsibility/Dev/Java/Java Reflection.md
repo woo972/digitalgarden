@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/java-reflection/","tags":["java","dev","reflection","info"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Java Reflection/","tags":["java","dev","reflection","info"],"noteIcon":""}
 ---
 
 ## 개요
