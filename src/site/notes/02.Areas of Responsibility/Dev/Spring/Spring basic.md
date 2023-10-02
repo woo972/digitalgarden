@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-basic/","tags":["dev","web","spring","java"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/Spring basic/","tags":["dev","web","spring","java"],"noteIcon":""}
 ---
 
 - Spring Framework Documentation (5.3.9) : https://docs.spring.io/spring-framework/docs/5.3.9/reference/html/index.html
