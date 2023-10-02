@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-widget/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter -  단일 Widget 정렬/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
