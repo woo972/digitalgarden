@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/kafka/","tags":["dev","kafka","message_queue","message_broker"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/Kafka/","tags":["dev","kafka","message_queue","message_broker"],"noteIcon":""}
 ---
 
 
