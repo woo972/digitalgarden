@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-application-properties/","tags":["dev","spring"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/Spring application properties/","tags":["dev","spring"],"noteIcon":""}
 ---
 
 
