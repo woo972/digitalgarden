@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/dart/","tags":["dart","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Dart 특수 연산자/","tags":["dart","dev"],"noteIcon":""}
 ---
 
 
