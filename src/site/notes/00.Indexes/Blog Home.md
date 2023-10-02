@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-indexes/blog-home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00.Indexes/Blog Home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 - [[04.Archives/POSTIT/mongodb 정보\|mongodb 정보]]
