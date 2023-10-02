@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-error-type-color-is-not-a-subtype-of-type-material-color/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Error - type 'Color' is not a subtype of  type 'MaterialColor'/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
