@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/database-and-cache/redis/","tags":["redis","db","in_memory","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Database & Cache/Redis/","tags":["redis","db","in_memory","dev"],"noteIcon":""}
 ---
 
 ## Appendix
