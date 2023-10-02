@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/docker-and-k8s/docker/","tags":["docker","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Docker & k8s/Docker 명령어/","tags":["docker","dev"],"noteIcon":""}
 ---
 
 - docker repository에 공유된 이미지로 컨테이너 실행
