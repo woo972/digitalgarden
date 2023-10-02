@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/docker-and-k8s/docker-basic/","tags":["docker","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Docker & k8s/Docker basic/","tags":["docker","dev"],"noteIcon":""}
 ---
 
 
