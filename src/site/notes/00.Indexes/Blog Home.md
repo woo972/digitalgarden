@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/00.Indexes/Blog Home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-- [[04.Archives/POSTIT/mongodb 정보\|mongodb 정보]]
-- [[04.Archives/POSTIT/HEROKU\|HEROKU]]
-- [[01.Projects/이직정보/쿠팡시스템\|쿠팡시스템]]
-- [[01.Projects/이직정보/에이블리 면접준비(설계)\|에이블리 면접준비(설계)]]
 - [[03.Resources/AI 관련 서비스\|AI 관련 서비스]]
 - [[02.Areas of Responsibility/Dev/Flutter/Dart Array(List) Method정리\|Dart Array(List) Method정리]]
 - [[02.Areas of Responsibility/Dev/Flutter/Dart Error - Bad state No element\|Dart Error - Bad state No element]]
@@ -30,7 +26,6 @@
 - [[02.Areas of Responsibility/Dev/Network & Infrastructure/Address Class\|Address Class]]
 - [[02.Areas of Responsibility/Dev/System Design & Design Pattern/API Gateway Service\|API Gateway Service]]
 - [[02.Areas of Responsibility/Dev/Algorithm & Data Structure/Coding Test\|Coding Test]]
-- [[01.Projects/이직정보/Interview Preperation\|Interview Preperation]]
 - [[02.Areas of Responsibility/Dev/System Design & Design Pattern/CQRS\|CQRS]]
 - [[02.Areas of Responsibility/Dev/Docker & k8s/Docker basic\|Docker basic]]
 - [[02.Areas of Responsibility/Dev/Docker & k8s/Docker 명령어\|Docker 명령어]]
@@ -73,9 +68,7 @@
 - [[02.Areas of Responsibility/Dev/System Design & Design Pattern/Event-Driven Architecture\|Event-Driven Architecture]]
 - [[02.Areas of Responsibility/Dev/Network & Infrastructure/네트워크 계층모델\|네트워크 계층모델]]
 - [[02.Areas of Responsibility/Dev/기타/대용량 엑셀 다운로드\|대용량 엑셀 다운로드]]
-- [[02.Areas of Responsibility/Dev/기타/영화 별점 앱\|영화 별점 앱]]
 - [[02.Areas of Responsibility/Dev/기타/네이버지도 API\|네이버지도 API]]
-- [[02.Areas of Responsibility/Dev/기타/경매시스템\|경매시스템]]
 - [[02.Areas of Responsibility/Dev/Java/자바 람다식\|자바 람다식]]
 - [[02.Areas of Responsibility/Dev/Database & Cache/Redis\|Redis]]
 - [[02.Areas of Responsibility/Dev/Database & Cache/MariaDB dialect class for Hibernate\|MariaDB dialect class for Hibernate]]
@@ -94,6 +87,5 @@
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Cordova 프로젝트 시작하기\|Cordova 프로젝트 시작하기]]
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Python DS Dataframe Sql 비교\|Python DS Dataframe Sql 비교]]
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/정규표현식\|정규표현식]]
-- [[02.Areas of Responsibility/Dev/Gradle/gradle basic\|gradle basic]]
 
 { .block-language-dataview}
