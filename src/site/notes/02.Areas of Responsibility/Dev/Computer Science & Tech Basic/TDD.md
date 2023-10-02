@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/tdd/","tags":["dev","tdd","test"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/TDD/","tags":["dev","tdd","test"],"noteIcon":""}
 ---
 
 
