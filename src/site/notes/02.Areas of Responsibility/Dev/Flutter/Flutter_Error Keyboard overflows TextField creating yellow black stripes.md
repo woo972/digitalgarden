@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-error-keyboard-overflows-text-field-creating-yellow-black-stripes/","tags":["dev","error","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter_Error Keyboard overflows TextField creating yellow black stripes/","tags":["dev","error","flutter"],"noteIcon":""}
 ---
 
 
