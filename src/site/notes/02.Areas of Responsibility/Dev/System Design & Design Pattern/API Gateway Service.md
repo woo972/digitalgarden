@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/api-gateway-service/","tags":["dev","apigateway","proxy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/API Gateway Service/","tags":["dev","apigateway","proxy"],"noteIcon":""}
 ---
 
 
