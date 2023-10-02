@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/dart-array-list-method/","tags":["dev","dart"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Dart Array(List) Method정리/","tags":["dev","dart"],"noteIcon":""}
 ---
 
 
