@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/database-and-cache/maria-db-dialect-class-for-hibernate/","tags":["dev","db","mariadb","hibernate"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Database & Cache/MariaDB dialect class for Hibernate/","tags":["dev","db","mariadb","hibernate"],"noteIcon":""}
 ---
 
 
