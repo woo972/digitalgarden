@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/gradle/effective-gradle/","tags":["gradle","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Gradle/effective gradle/","tags":["gradle","dev"],"noteIcon":""}
 ---
 
 >[!note]
