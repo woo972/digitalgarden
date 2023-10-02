@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-batch/","tags":["dev","spring","batch"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/Spring batch/","tags":["dev","spring","batch"],"noteIcon":""}
 ---
 
 
