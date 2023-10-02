@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev//api/","tags":["map","api","naver","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/기타/네이버지도 API/","tags":["map","api","naver","dev"],"noteIcon":""}
 ---
 
 #### 지도 실행
