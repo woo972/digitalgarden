@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/2-pc-two-phase-commit/","tags":["system_design","db","event_stream","message_queue","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/2PC(Two Phase Commit)/","tags":["system_design","db","event_stream","message_queue","dev"],"noteIcon":""}
 ---
 
 ## Background
