@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-test/","tags":["dev","spring","test"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/Spring Test정리/","tags":["dev","spring","test"],"noteIcon":""}
 ---
 
 
