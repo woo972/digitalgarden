@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/java-memory/","tags":["java","dev","memory"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Java Memory/","tags":["java","dev","memory"],"noteIcon":""}
 ---
 
 Java memory 영역은 아래와 같이 나뉜다.
