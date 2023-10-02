@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/web-socket1/","tags":["dev","java","websocket"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/WebSocket1/","tags":["dev","java","websocket"],"noteIcon":""}
 ---
 
 (레퍼런스: http://www.oracle.com/technetwork/articles/Java/jsr356-1937161.html)
