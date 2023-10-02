@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-state-management-provider/","tags":["flutter","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter - State Management, Provider/","tags":["flutter","dev"],"noteIcon":""}
 ---
 
 
