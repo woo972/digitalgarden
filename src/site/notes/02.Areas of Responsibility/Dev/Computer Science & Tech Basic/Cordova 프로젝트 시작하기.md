@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/cordova/","tags":["dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Cordova 프로젝트 시작하기/","tags":["dev"],"noteIcon":""}
 ---
 
 
