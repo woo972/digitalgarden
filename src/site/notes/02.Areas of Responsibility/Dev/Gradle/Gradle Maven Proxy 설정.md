@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/gradle/gradle-maven-proxy/","tags":["dev","gradle","maven","proxy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Gradle/Gradle Maven Proxy 설정/","tags":["dev","gradle","maven","proxy"],"noteIcon":""}
 ---
 
 
