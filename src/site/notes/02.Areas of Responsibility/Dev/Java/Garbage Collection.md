@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/garbage-collection/","tags":["dev","gc","java","jvm"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Garbage Collection/","tags":["dev","gc","java","jvm"],"noteIcon":""}
 ---
 
 ## Overview
