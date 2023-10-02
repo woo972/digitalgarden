@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/web-socket2/","tags":["dev","java","websocket"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/WebSocket2/","tags":["dev","java","websocket"],"noteIcon":""}
 ---
 
 Created: April 22, 2020 10:21 AM
