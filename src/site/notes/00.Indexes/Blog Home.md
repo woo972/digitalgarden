@@ -37,7 +37,6 @@
 - [[02.Areas of Responsibility/Dev/Gradle/effective gradle\|effective gradle]]
 - [[02.Areas of Responsibility/Dev/Java/Garbage Collection\|Garbage Collection]]
 - [[02.Areas of Responsibility/Dev/Git/Github Actions\|Github Actions]]
-- [[02.Areas of Responsibility/Dev/Gradle/gradle basic\|gradle basic]]
 - [[02.Areas of Responsibility/Dev/Gradle/Gradle Maven Proxy 설정\|Gradle Maven Proxy 설정]]
 - [[02.Areas of Responsibility/Dev/Java/InheritableThreadLocal\|InheritableThreadLocal]]
 - [[02.Areas of Responsibility/Dev/Java/Java Memory\|Java Memory]]
@@ -95,5 +94,6 @@
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Cordova 프로젝트 시작하기\|Cordova 프로젝트 시작하기]]
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Python DS Dataframe Sql 비교\|Python DS Dataframe Sql 비교]]
 - [[02.Areas of Responsibility/Dev/Computer Science & Tech Basic/정규표현식\|정규표현식]]
+- [[02.Areas of Responsibility/Dev/Gradle/gradle basic\|gradle basic]]
 
 { .block-language-dataview}
