@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-web/","tags":["flutter","web","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Web 시작하기/","tags":["flutter","web","dev"],"noteIcon":""}
 ---
 
 ## 설치
