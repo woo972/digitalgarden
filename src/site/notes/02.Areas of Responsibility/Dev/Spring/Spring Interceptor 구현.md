@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/spring/spring-interceptor/","tags":["dev","spring","interceptor"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Spring/Spring Interceptor 구현/","tags":["dev","spring","interceptor"],"noteIcon":""}
 ---
 
 
