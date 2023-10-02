@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-resources/ai/","tags":["dev","ai","service"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/03.Resources/AI 관련 서비스/","tags":["dev","ai","service"],"noteIcon":""}
 ---
 
 https://twelvelabs.io/
