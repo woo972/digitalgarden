@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/java8/","tags":["dev","java"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Java8 이후 신규 기능/","tags":["dev","java"],"noteIcon":""}
 ---
 
 ## Java9
