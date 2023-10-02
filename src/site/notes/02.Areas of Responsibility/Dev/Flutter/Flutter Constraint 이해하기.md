@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-constraint/","tags":["flutter","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Constraint 이해하기/","tags":["flutter","dev"],"noteIcon":""}
 ---
 
 '어떤' 위젯들은 그 크기와 포지션을 스스로 결정하지 못하고 부모 위젯에 의존한다.
