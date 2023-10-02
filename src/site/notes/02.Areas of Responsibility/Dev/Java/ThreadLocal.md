@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/thread-local/","tags":["dev","java","info"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/ThreadLocal/","tags":["dev","java","info"],"noteIcon":""}
 ---
 
 - oracle document: https://docs.oracle.com/javase/7/docs/api/java/lang/ThreadLocal.html
