@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/3-pc-three-phase-commit/","tags":["system_design","distributed_transaction","2pc","dev","3pc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/3PC(Three Phase Commit)/","tags":["system_design","distributed_transaction","2pc","dev","3pc"],"noteIcon":""}
 ---
 
 ## Background
