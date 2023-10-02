@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/git/github-actions/","tags":["dev","github/actions","devops","cicd"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Git/Github Actions/","tags":["dev","github/actions","devops","cicd"],"noteIcon":""}
 ---
 
 ## Overview
