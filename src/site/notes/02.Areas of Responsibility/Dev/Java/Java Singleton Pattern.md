@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/java-singleton-pattern/","tags":["dev","java","designpattern"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Java Singleton Pattern/","tags":["dev","java","designpattern"],"noteIcon":""}
 ---
 
 자바에서는 new 키워드를 이용해서 객체를 생성한다. 고로 한번만 생성하면 될 객체를 여러번 생성하게 되면 그만큼 메모리에 낭비가 생길 수가 밖에 없다. 때문에 싱글톤 패턴을 적용하여 객체를 한 번만 생성하도록 하는 경우가 있다. 
