@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-error-expanded-widgets-must-be-placed-inside-flex-widgets/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Error - Expanded widgets must be placed inside Flex widgets/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
