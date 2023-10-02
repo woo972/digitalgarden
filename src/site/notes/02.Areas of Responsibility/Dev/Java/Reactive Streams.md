@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/reactive-streams/","tags":["dev","reactive"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Reactive Streams/","tags":["dev","reactive"],"noteIcon":""}
 ---
 
 ## 정의 및 개요
