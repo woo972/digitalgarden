@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/java/inheritable-thread-local/","tags":["dev","java","info"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/InheritableThreadLocal/","tags":["dev","java","info"],"noteIcon":""}
 ---
 
 - oracle document: https://docs.oracle.com/javase/7/docs/api/java/lang/InheritableThreadLocal.html
