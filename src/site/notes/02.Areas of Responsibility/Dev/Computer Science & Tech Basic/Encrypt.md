@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/encrypt/","tags":["dev","encrypt"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Encrypt/","tags":["dev","encrypt"],"noteIcon":""}
 ---
 
 
