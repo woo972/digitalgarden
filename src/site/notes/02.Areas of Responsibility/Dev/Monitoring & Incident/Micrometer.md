@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/monitoring-and-incident/micrometer/","tags":["dev","monitoring","metric"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Monitoring & Incident/Micrometer/","tags":["dev","monitoring","metric"],"noteIcon":""}
 ---
 
 ## 개요
