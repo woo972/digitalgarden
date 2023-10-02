@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/ubuntu-service/","tags":["dev","ubuntu"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/Ubuntu Service 설정/","tags":["dev","ubuntu"],"noteIcon":""}
 ---
 
 
