@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/cqrs/","tags":["dev","design-design"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/CQRS/","tags":["dev","design-design"],"noteIcon":""}
 ---
 
 ## 개념
