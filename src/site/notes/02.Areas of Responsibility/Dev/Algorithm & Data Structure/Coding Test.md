@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/algorithm-and-data-structure/coding-test/","tags":["algorithm","data_structure","coding_test","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Algorithm & Data Structure/Coding Test/","tags":["algorithm","data_structure","coding_test","dev"],"noteIcon":""}
 ---
 
 ## 접근 방법
