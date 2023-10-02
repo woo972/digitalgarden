@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/http/","tags":["dev","cs"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/HTTP 프로토콜/","tags":["dev","cs"],"noteIcon":""}
 ---
 
 ## 개요
