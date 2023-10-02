@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-custom-font/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter - custom font 적용/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
