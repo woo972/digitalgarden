@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/scalability/","tags":["dev","scalability"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/01.Projects/Scalability/","tags":["dev","scalability"],"noteIcon":""}
 ---
 
 ## 시스템 확장 및 퍼포먼스 향상 방법
