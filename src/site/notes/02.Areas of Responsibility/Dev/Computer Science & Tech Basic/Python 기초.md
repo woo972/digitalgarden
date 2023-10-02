@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/python/","tags":["dev","python"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Python 기초/","tags":["dev","python"],"noteIcon":""}
 ---
 
 
