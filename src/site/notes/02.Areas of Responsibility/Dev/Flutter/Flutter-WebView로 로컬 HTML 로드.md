@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-web-view-html/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter-WebView로 로컬 HTML 로드/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
