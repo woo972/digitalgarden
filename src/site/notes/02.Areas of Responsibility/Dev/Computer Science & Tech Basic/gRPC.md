@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/g-rpc/","tags":["dev","request","url","endpoint","통신","api"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/gRPC/","tags":["dev","request","url","endpoint","통신","api"],"noteIcon":""}
 ---
 
 - 보통 마이크로서비스에서 내부 서버간 동기 통신에 사용한다
