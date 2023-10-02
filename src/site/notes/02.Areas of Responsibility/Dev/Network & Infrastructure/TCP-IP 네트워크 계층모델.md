@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/tcp-ip/","tags":["dev","cs"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/TCP-IP 네트워크 계층모델/","tags":["dev","cs"],"noteIcon":""}
 ---
 
 ## 네트워크 계층의 역할
