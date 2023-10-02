@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/tls-ssl/","tags":["dev","cs"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/TLS(SSL)/","tags":["dev","cs"],"noteIcon":""}
 ---
 
 ## SSL 동작 흐름
