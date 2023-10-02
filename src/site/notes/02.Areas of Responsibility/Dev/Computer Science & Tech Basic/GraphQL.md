@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/graph-ql/","tags":["dev","graphql","request","endpoint","url","api","통신"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/GraphQL/","tags":["dev","graphql","request","endpoint","url","api","통신"],"noteIcon":""}
 ---
 
 https://graphql.org
