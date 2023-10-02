@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-screen-orientation/","tags":["dev","flutter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter - Screen Orientation에 따른 개발/","tags":["dev","flutter"],"noteIcon":""}
 ---
 
 
