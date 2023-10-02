@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-error-vertical-viewport-was-given-unboun/","tags":["dev","flutter","error"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Error - Vertical viewport was given unboun/","tags":["dev","flutter","error"],"noteIcon":""}
 ---
 
 
