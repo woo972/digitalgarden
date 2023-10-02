@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/address-class/","tags":["dev","network"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/Address Class/","tags":["dev","network"],"noteIcon":""}
 ---
 
 하나의 IP 안에서 네트워크 부와 호스트 부를 고정한 것을 어드레스 클래스라고 한다.
