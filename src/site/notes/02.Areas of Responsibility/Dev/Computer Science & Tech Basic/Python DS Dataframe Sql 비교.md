@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/python-ds-dataframe-sql/","tags":["dev","python","ds"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/Python DS Dataframe Sql 비교/","tags":["dev","python","ds"],"noteIcon":""}
 ---
 
 
