@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/monitoring-and-incident/prometheus/","tags":["dev","monitoring","metrics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Monitoring & Incident/Prometheus/","tags":["dev","monitoring","metrics"],"noteIcon":""}
 ---
 
 ## 특징
