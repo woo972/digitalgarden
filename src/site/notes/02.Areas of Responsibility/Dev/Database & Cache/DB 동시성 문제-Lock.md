@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/database-and-cache/db-lock/","tags":["dev","db"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Database & Cache/DB 동시성 문제-Lock/","tags":["dev","db"],"noteIcon":""}
 ---
 
 ## 동시성 문제
