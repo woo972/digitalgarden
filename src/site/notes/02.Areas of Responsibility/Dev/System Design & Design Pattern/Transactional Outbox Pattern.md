@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/transactional-outbox-pattern/","tags":["system_design","db","event_stream","message_broker","dev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/Transactional Outbox Pattern/","tags":["system_design","db","event_stream","message_broker","dev"],"noteIcon":""}
 ---
 
 ## Background
