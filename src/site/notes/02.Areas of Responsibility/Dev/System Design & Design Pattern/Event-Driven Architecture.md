@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/system-design-and-design-pattern/event-driven-architecture/","tags":["dev","design-pattern","architecture"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/Event-Driven Architecture/","tags":["dev","design-pattern","architecture"],"noteIcon":""}
 ---
 
 ## 개요
