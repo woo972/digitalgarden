@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/computer-science-and-tech-basic/go/","tags":["dev","go"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Computer Science & Tech Basic/GO/","tags":["dev","go"],"noteIcon":""}
 ---
 
 # Go VS CODE 환경설정
