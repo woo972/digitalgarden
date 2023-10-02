@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/flutter/flutter-error-the-element-type-list-widget-can-t-be-assigned-to-the-list-type-widget/","tags":["dev","flutter","error"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Flutter/Flutter Error - the element type 'List widget ' can't be assigned to the list type 'Widget'/","tags":["dev","flutter","error"],"noteIcon":""}
 ---
 
 
