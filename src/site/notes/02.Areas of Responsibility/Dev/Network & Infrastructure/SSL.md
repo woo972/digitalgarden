@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas-of-responsibility/dev/network-and-infrastructure/ssl/","tags":["dev","ssl","web"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Network & Infrastructure/SSL/","tags":["dev","ssl","web"],"noteIcon":""}
 ---
 
 ○ SSL 매커니즘  
