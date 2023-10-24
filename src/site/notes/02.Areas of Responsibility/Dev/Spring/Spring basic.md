@@ -3,6 +3,12 @@
 ---
 
 - Spring Framework Documentation (5.3.9) : https://docs.spring.io/spring-framework/docs/5.3.9/reference/html/index.html
+### Summary
+- IoC(Inversion of Control, 제어역전)은 프로그램의 흐름 제어를 어플리케이션이 아니라 외부의 프레임워크나 컨테이너에 위임한다는 의미이다.
+- Spring IoC Container는 Object(객체)의 생명주기 관리, 의존성 주입 등을 수행한다.
+- 구체적인 방법으로써 DI(Dependency Injection, 의존성 주입)는 Object간의 의존성을 외부에서 주입하는 것을 의미한다.
+- Spring IoC Container가 DI를 통해 의존성을 관리하는 것이다.
+- Object간의 결합성을 낮추고 유지보수를 용이하게 한다.
 ### Spring IoC Container 
 #### Container Overview
 - link: https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-basics
