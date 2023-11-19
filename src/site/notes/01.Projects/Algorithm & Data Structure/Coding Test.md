@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01.Projects/Algorithm & Data Structure/Coding Test/","tags":["algorithm","data_structure","coding_test","dev"],"noteIcon":""}
 ---
 
-## 접근 방법
+	 ## 접근 방법
 ---
 - Brute Force: enumerate all possible solutions
 - Greedy: keep track of the best answer so far
