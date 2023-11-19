@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01.Projects/Pong Game 만들기/","tags":["coding_challenge","javascript","html5","canvas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/01.Projects/Pong Game 만들기/","tags":["coding_challenge","javascript","html5","canvas","dev"],"noteIcon":""}
 ---
 
 ## Info
