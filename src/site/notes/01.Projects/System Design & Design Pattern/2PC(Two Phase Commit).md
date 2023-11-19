@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01.Projects/System Design & Design Pattern/2PC(Two Phase Commit)/","tags":["system_design","db","event_stream","message_queue","dev"],"noteIcon":""}
 ---
 
-## Background
+							## Background
 ---
 - DB와 Message Queue를 사용하는 경우 데이터 불일치가 발생할 수 있어 동기화 방법이 필요하다
 - 예시
