@@ -54,9 +54,15 @@ Thread의 Nested class인 `Thread.State` enum을 통해 thread의 생명주기�
  * TERMINATED: thread 실행이 완료되어 종료된 상태.
 ![Pasted image 20231202183037.png](/img/user/992.-----attachments/Pasted%20image%2020231202183037.png)
 [[Excalidraw/Thread State\|Thread State]]
-## Thread 경합
+## Thread Lock
 ---
-...
+모든 객체는 Synchronization을 위한 Monitor Lock(Intrinsic Lock)을 가지고 있다. (통상 줄여서 Monitor라고 함) thread는 객체에 접근하기 위해 monitor를 획득하여야 한다. 이는 다음과 같은 두가지를 보장한다.
+- 객체의 상태에 배타적인 접근을 강제한다.
+- Visibility(가시성)을 보장하기 위해 선행관계(happens-before relationship)를 만든다. 
+
+thread가 synchronized 메서드에 진입하면 monitor lock을 얻고 메서드에서 정상적으로, 혹은 exception에 의해 반환될 때 monitor lock을 반납한다. synchonized static method에 대한 의 경우, 객체에 직접 lock을 거는 것이 아니라 Class 객체에 lock을 거는 것이기 때문에 class의 인스턴스를 위한 lock과 구분되는 다른 lock에 의해 class의 static field가 관리된다.
+
+
 ## 참고
 ---
 [[01.Projects/Daemon Thread\|Daemon Thread]]
