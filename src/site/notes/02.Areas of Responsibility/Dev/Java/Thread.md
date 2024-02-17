@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Thread/","tags":["dev","java","thread","async","concurrent"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Java/Thread/","tags":["dev","java","thread","async","concurrency"],"noteIcon":""}
 ---
 
 ## Thread란
