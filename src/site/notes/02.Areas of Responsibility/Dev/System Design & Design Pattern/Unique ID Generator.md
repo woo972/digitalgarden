@@ -44,4 +44,3 @@
 - [[02.Areas of Responsibility/Dev/System Design & Design Pattern/UUID vs auto_increment ID in RDBMS\|UUID vs auto_increment ID in RDBMS]]
 - [Announcing Snowflake (twitter.com)](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake)
 - https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/
-- 
