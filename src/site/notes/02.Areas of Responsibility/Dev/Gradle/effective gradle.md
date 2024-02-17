@@ -21,6 +21,5 @@ tasks.withType(Test) {
 	// maxParalleslForks = Runtime.runtime.availableProcessors().intdiv(2) ?: 1 <- cpu 수에 맞춰서 fork 숫자를 정할 수 있다
 }
 ```
-
 ## 'profile'
 - `--profile` 옵션을 사용하여 벤치마크를 측정할 수 있다
