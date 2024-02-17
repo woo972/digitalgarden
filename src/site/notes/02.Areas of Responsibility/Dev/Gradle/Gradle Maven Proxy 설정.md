@@ -16,7 +16,7 @@ url "[http://repo.maven.apache.org/maven2](http://repo.maven.apache.org/maven2)"
 }
 1. gradle-wrapper.properties 설정
 - https 주석 처리 후 http 로 변경
-#distributionUrl=https\://services.gradle.org/distributions/gradle-5.4.1-bin.zip
+#distribution_url=https\://services.gradle.org/distributions/gradle-5.4.1-bin.zip
 distributionUrl=http\://services.gradle.org/distributions/gradle-5.4.1-bin.zip
 1. gradle.properties 설정
 - .gradle 디렉토리 내 gradle.properties 파일 생성 후 프록시 설정 내용 입력
