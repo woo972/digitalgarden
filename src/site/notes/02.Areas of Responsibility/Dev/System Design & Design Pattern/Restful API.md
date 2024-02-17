@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/Restful API/","tags":["dev","rest","api","endpoint","url","통신"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/System Design & Design Pattern/Restful API/","tags":["dev","rest","api","endpoint","url","network"],"noteIcon":""}
 ---
 
 - Restful 주소는 최대 /Collection/Resource/Collection 형태까지만 만들어야 함
