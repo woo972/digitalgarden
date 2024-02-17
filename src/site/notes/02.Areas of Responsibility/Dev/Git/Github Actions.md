@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Git/Github Actions/","tags":["dev","github/actions","devops","cicd"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02.Areas of Responsibility/Dev/Git/Github Actions/","tags":["dev","github","devops","cicd"],"noteIcon":""}
 ---
 
 ## Overview
@@ -7,8 +7,8 @@
 - public repo는 무료, privite repo는 월 2000분 무료
 ## Concept
 - github actions의 작업은 workflow라고 불린다. workflow는 push, delete 등 repo에 대한 event가 발생할 때 트리거되며, 여러개의 workflow를 만들어서 사용할 수 있다. (빌드용, 패키징용 등)	
-- workflow는 job이라는 단위의 step의 모음으로 구성되어 있다. 각 step은 쉘 스크립트를 수행하거나 action을 수행하며 하나의 runner(서버) 안에서 수행된다. 따라서 각 step은 순서대로 의존성을 갖게 된다. 또한 job끼리는 다른 runnder에서 수행되기 때문에 병렬로 실행이 가능하다.
-- action은 반복되는 작업을 일컫는다.(예를 들어 코드를 pull한 뒤, build profile을 선택하여 build 등)
+- workflow는 job이라는 단위의 step의 모음으로 구성되어 있다. 각 step은 쉘 스크립트를 수행하거나 action을 수행하며 하나의 runner(서버) 안에서 수행된다. 따라서 각 step은 순서대로 의존성을 갖게 된다. 또한 job끼리는 다른 runner에서 수행되기 때문에 병렬로 실행이 가능하다.
+- action은 반복되는 작업을 일컫는다. (예를 들어 코드를 pull한 뒤, build profile을 선택하여 build 등)
 ## How to apply Github Actions to Repository 
 - repo에 ./github/workflows 폴더 생성
 - 위 폴더 안에 workflow 정의 YAML 파일 생성
